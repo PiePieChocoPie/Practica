@@ -1,0 +1,7 @@
+C:\Users\Stydent\source\repos\Практика 6 горох\bin\Debug\Практика 6 горох.exe.config
+C:\Users\Stydent\source\repos\Практика 6 горох\bin\Debug\Практика 6 горох.exe
+C:\Users\Stydent\source\repos\Практика 6 горох\bin\Debug\Практика 6 горох.pdb
+C:\Users\Stydent\source\repos\Практика 6 горох\obj\Debug\Практика 6 горох.csprojAssemblyReference.cache
+C:\Users\Stydent\source\repos\Практика 6 горох\obj\Debug\Практика 6 горох.csproj.CoreCompileInputs.cache
+C:\Users\Stydent\source\repos\Практика 6 горох\obj\Debug\Практика 6 горох.exe
+C:\Users\Stydent\source\repos\Практика 6 горох\obj\Debug\Практика 6 горох.pdb
