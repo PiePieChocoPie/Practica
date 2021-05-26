@@ -1,0 +1,11 @@
+C:\Users\Студент\source\repos\Gorox12.05.2021\bin\Debug\Gorox12.05.2021.exe
+C:\Users\Студент\source\repos\Gorox12.05.2021\bin\Debug\Gorox12.05.2021.pdb
+C:\Users\Студент\source\repos\Gorox12.05.2021\obj\Debug\Gorox12.05.2021.csprojAssemblyReference.cache
+C:\Users\Студент\source\repos\Gorox12.05.2021\obj\Debug\Gorox12.05.2021.exe
+C:\Users\Студент\source\repos\Gorox12.05.2021\obj\Debug\Gorox12.05.2021.pdb
+C:\Users\Pie\Desktop\Практика\Новая папка\1 Практическая\bin\Debug\Gorox12.05.2021.exe
+C:\Users\Pie\Desktop\Практика\Новая папка\1 Практическая\bin\Debug\Gorox12.05.2021.pdb
+C:\Users\Pie\Desktop\Практика\Новая папка\1 Практическая\obj\Debug\Gorox12.05.2021.csprojAssemblyReference.cache
+C:\Users\Pie\Desktop\Практика\Новая папка\1 Практическая\obj\Debug\Gorox12.05.2021.csproj.CoreCompileInputs.cache
+C:\Users\Pie\Desktop\Практика\Новая папка\1 Практическая\obj\Debug\Gorox12.05.2021.exe
+C:\Users\Pie\Desktop\Практика\Новая папка\1 Практическая\obj\Debug\Gorox12.05.2021.pdb
