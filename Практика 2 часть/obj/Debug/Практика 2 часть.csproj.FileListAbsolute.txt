@@ -1,0 +1,7 @@
+C:\Users\Stydent\source\repos\Практика 2 часть\bin\Debug\Практика 2 часть.exe.config
+C:\Users\Stydent\source\repos\Практика 2 часть\bin\Debug\Практика 2 часть.exe
+C:\Users\Stydent\source\repos\Практика 2 часть\bin\Debug\Практика 2 часть.pdb
+C:\Users\Stydent\source\repos\Практика 2 часть\obj\Debug\Практика 2 часть.csprojAssemblyReference.cache
+C:\Users\Stydent\source\repos\Практика 2 часть\obj\Debug\Практика 2 часть.csproj.CoreCompileInputs.cache
+C:\Users\Stydent\source\repos\Практика 2 часть\obj\Debug\Практика 2 часть.exe
+C:\Users\Stydent\source\repos\Практика 2 часть\obj\Debug\Практика 2 часть.pdb
