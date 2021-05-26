@@ -1,0 +1,7 @@
+C:\Users\Pie\source\repos\Практическая 3\Практическая 3\bin\Debug\Практическая 3.exe.config
+C:\Users\Pie\source\repos\Практическая 3\Практическая 3\bin\Debug\Практическая 3.exe
+C:\Users\Pie\source\repos\Практическая 3\Практическая 3\bin\Debug\Практическая 3.pdb
+C:\Users\Pie\source\repos\Практическая 3\Практическая 3\obj\Debug\Практическая 3.csprojAssemblyReference.cache
+C:\Users\Pie\source\repos\Практическая 3\Практическая 3\obj\Debug\Практическая 3.csproj.CoreCompileInputs.cache
+C:\Users\Pie\source\repos\Практическая 3\Практическая 3\obj\Debug\Практическая 3.exe
+C:\Users\Pie\source\repos\Практическая 3\Практическая 3\obj\Debug\Практическая 3.pdb
