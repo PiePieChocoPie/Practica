@@ -1,0 +1,14 @@
+C:\Users\Pie\source\repos\rimskie cifri\rimskie cifri\obj\Debug\rimskie cifri.csprojAssemblyReference.cache
+C:\Users\Pie\source\repos\rimskie cifri\rimskie cifri\obj\Debug\rimskie cifri.csproj.CoreCompileInputs.cache
+C:\Users\Pie\source\repos\rimskie cifri\rimskie cifri\bin\Debug\rimskie cifri.exe.config
+C:\Users\Pie\source\repos\rimskie cifri\rimskie cifri\bin\Debug\rimskie cifri.exe
+C:\Users\Pie\source\repos\rimskie cifri\rimskie cifri\bin\Debug\rimskie cifri.pdb
+C:\Users\Pie\source\repos\rimskie cifri\rimskie cifri\obj\Debug\rimskie cifri.exe
+C:\Users\Pie\source\repos\rimskie cifri\rimskie cifri\obj\Debug\rimskie cifri.pdb
+C:\Users\Pie\Desktop\Практика\Новая папка\rimskie cifri\rimskie cifri\bin\Debug\rimskie cifri.exe.config
+C:\Users\Pie\Desktop\Практика\Новая папка\rimskie cifri\rimskie cifri\bin\Debug\rimskie cifri.exe
+C:\Users\Pie\Desktop\Практика\Новая папка\rimskie cifri\rimskie cifri\bin\Debug\rimskie cifri.pdb
+C:\Users\Pie\Desktop\Практика\Новая папка\rimskie cifri\rimskie cifri\obj\Debug\rimskie cifri.csprojAssemblyReference.cache
+C:\Users\Pie\Desktop\Практика\Новая папка\rimskie cifri\rimskie cifri\obj\Debug\rimskie cifri.csproj.CoreCompileInputs.cache
+C:\Users\Pie\Desktop\Практика\Новая папка\rimskie cifri\rimskie cifri\obj\Debug\rimskie cifri.exe
+C:\Users\Pie\Desktop\Практика\Новая папка\rimskie cifri\rimskie cifri\obj\Debug\rimskie cifri.pdb
