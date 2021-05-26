@@ -1,0 +1,14 @@
+C:\Users\студент\source\repos\9 практическая\9 практическая\bin\Debug\9 практическая.exe.config
+C:\Users\студент\source\repos\9 практическая\9 практическая\bin\Debug\9 практическая.exe
+C:\Users\студент\source\repos\9 практическая\9 практическая\bin\Debug\9 практическая.pdb
+C:\Users\студент\source\repos\9 практическая\9 практическая\obj\Debug\9 практическая.csprojAssemblyReference.cache
+C:\Users\студент\source\repos\9 практическая\9 практическая\obj\Debug\9 практическая.csproj.CoreCompileInputs.cache
+C:\Users\студент\source\repos\9 практическая\9 практическая\obj\Debug\9 практическая.exe
+C:\Users\студент\source\repos\9 практическая\9 практическая\obj\Debug\9 практическая.pdb
+C:\Users\Pie\Desktop\Практика\Новая папка\9 практическая\9 практическая\bin\Debug\9 практическая.exe.config
+C:\Users\Pie\Desktop\Практика\Новая папка\9 практическая\9 практическая\bin\Debug\9 практическая.exe
+C:\Users\Pie\Desktop\Практика\Новая папка\9 практическая\9 практическая\bin\Debug\9 практическая.pdb
+C:\Users\Pie\Desktop\Практика\Новая папка\9 практическая\9 практическая\obj\Debug\9 практическая.csprojAssemblyReference.cache
+C:\Users\Pie\Desktop\Практика\Новая папка\9 практическая\9 практическая\obj\Debug\9 практическая.csproj.CoreCompileInputs.cache
+C:\Users\Pie\Desktop\Практика\Новая папка\9 практическая\9 практическая\obj\Debug\9 практическая.exe
+C:\Users\Pie\Desktop\Практика\Новая папка\9 практическая\9 практическая\obj\Debug\9 практическая.pdb
